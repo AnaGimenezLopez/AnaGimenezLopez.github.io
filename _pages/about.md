@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Sobre mí
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: ''
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
-
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+Entusiasmada en el sector de la alimentación, soy una persona analítica con fuerte empuje, curiosidad intelectual y determinación para alcanzar los objetivos. Tengo gran capacidad de trabajar en equipo y considero que es muy gratificante y satisfactorio alcanzar el éxito en los nuevos retos propuestos.
+<a target="_blank" href="https://www.linkedin.com/in/ana-gim%C3%A9nez-l%C3%B3pez/" class="btn btn-dark"> Contáctame en LinkedIn &rarr;</a>
 
